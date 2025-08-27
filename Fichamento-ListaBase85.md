@@ -1,6 +1,6 @@
 # Exploiting Vision-Language Models in GUI Reuse
 
-Niu, Victoria; Niu, Nan; Alshammari, Walaa; Bhowmik, Tanmay; Iluru, Naga Mamata; Teeleti, Padmaja Vaishnavi; Zhang, Jianzhang. "Exploiting Vision-Language Models in GUI Reuse." (não há referência de publicação, mas o documento é um artigo de conferência ou workshop). Disponível em: [https://doi.org/10.7945/nkr8-zq38](https://doi.org/10.7945/nkr8-zq38).
+Niu, Victoria; Niu, Nan; Alshammari, Walaa; Bhowmik, Tanmay; Iluru, Naga Mamata; Teeleti, Padmaja Vaishnavi; Zhang, Jianzhang. "Exploiting Vision-Language Models in GUI Reuse." . Disponível em: [https://doi.org/10.7945/nkr8-zq38](https://doi.org/10.7945/nkr8-zq38).
 
 ## 1. Fichamento de Conteúdo
 
