@@ -1,25 +1,24 @@
 # Exploiting Vision-Language Models in GUI Reuse
 
-Niu, Victoria; Niu, Nan; Alshammari, Walaa; Bhowmik, Tanmay; Iluru, Naga Mamata; Teeleti, Padmaja Vaishnavi; Zhang, Jianzhang. "Exploiting Vision-Language Models in GUI Reuse." . Disponível em: [https://doi.org/10.7945/nkr8-zq38](https://doi.org/10.7945/nkr8-zq38).
+Niu, Victoria; Niu, Nan; Alshammari, Walaa; Bhowmik, Tanmay; Iluru, Naga Mamata; Teeleti, Padmaja Vaishnavi; Zhang, Jianzhang. "Exploiting Vision-Language Models in GUI Reuse". doi: [10.7945/nkr8-zq38](https://doi.org/10.7945/nkr8-zq38)
 
 ## 1. Fichamento de Conteúdo
 
-O artigo investiga o uso de modelos de visão-linguagem (VLMs) como ferramentas de apoio na reutilização de protótipos de interfaces gráficas (GUIs). Ele destaca que a maior parte dos trabalhos atuais foca na recuperação de GUIs semelhantes, mas não na reutilização efetiva para criar novas interfaces. Para examinar essa lacuna, os autores realizaram um estudo empírico com 73 estudantes universitários, testando métodos de recomendação de reutilização baseados em VLMs (Qwen2-VL-7B e Llama-Vision-11B), em comparação com um método de linguagem natural e um método aleatório. Os resultados mostram que os VLMs superam significativamente os métodos tradicionais de linguagem natural, mas revelam também que os elementos de GUI destacados pelos modelos não foram sempre modificados pelos participantes. Além disso, designers experientes avaliaram que os protótipos humanos tendem a ser mais criativos que os gerados por IA, especialmente quando se concentram nos elementos recomendados. O artigo conclui que, embora os VLMs tenham potencial promissor na reutilização de GUIs, ainda é necessário avançar na forma de reduzir a “distância cognitiva” e apoiar a criatividade humana no processo de design.
+O artigo investiga como Modelos de Visão-Linguagem (VLMs), uma técnica avançada de inteligência artificial, podem aprimorar o processo de prototipagem de interfaces gráficas de usuário (GUI). O problema central abordado é que as ferramentas atuais são boas em recuperar GUIs existentes com base em uma consulta, mas oferecem pouco suporte para o reuso efetivo dessas GUIs na criação de novas. Para resolver essa lacuna, os autores propõem um "reuso centrado na GUI", onde uma única interface pode gerar múltiplas direções de reuso. O método empregado foi um estudo empírico com 73 estudantes universitários, que realizaram tarefas de redesenho de GUIs a partir de recomendações geradas tanto por VLMs quanto por um método tradicional baseado em linguagem natural (NL). Os resultados demonstraram que os VLMs foram significativamente superiores ao método NL para sugerir direções de reuso. Contudo, os "elementos focados" — partes específicas da GUI sugeridas como ponto de partida para as modificações — não foram consistentemente alterados pelos participantes. Adicionalmente, uma avaliação de criatividade feita por designers experientes concluiu que os protótipos criados por humanos eram mais inventivos do que os gerados por uma IA generativa.
 
 ## 2. Fichamento Bibliográfico
 
-* **Prototipagem de GUI**: Etapa essencial no desenvolvimento de software, permitindo validar requisitos e estimular ideias. A reutilização pode reduzir custos e tempo em comparação à criação do zero.  
-* **Reutilização Centrada em GUI**: Trata a interface como um elemento central, permitindo múltiplas direções de reutilização além da recuperação por consulta.  
-* **Modelos de Visão-Linguagem (VLMs)**: Técnicas de IA que integram imagens e textos em uma representação unificada, exemplificados por modelos como CLIP e BLIP.  
-* **Distância Cognitiva**: Conceito que avalia o esforço intelectual necessário para evoluir um sistema; reduzir essa distância é crucial para técnicas de reutilização eficazes.  
-* **Reutilização Inteligente (Clever Reuse)**: Elemento chave da criatividade em software, relacionada à forma como protótipos incorporam novas ideias a partir de modelos existentes.  
+* _GUI-centered reuse_ (reuso centrado na GUI) é uma abordagem onde a interface gráfica é tratada como o elemento principal, da qual podem derivar múltiplas direções de reuso (representadas por frases-chave), em vez de ser apenas o resultado de uma busca por uma consulta específica (p. 1).
+* _Vision-Language Models (VLMs)_ (Modelos de Visão-Linguagem) são modelos de IA treinados com vastos conjuntos de dados de imagem-legenda. No estudo, eles são usados para analisar uma imagem de GUI e recomendar tanto a direção de reuso mais adequada (frase-chave) quanto um elemento específico na tela para iniciar a modificação (p. 1).
+* _Focused GUI element_ (elemento de GUI focado) é um componente específico da interface (como um botão ou um ícone) que é sugerido ao designer como um ponto de partida para realizar as alterações de reuso, com o objetivo de reduzir o esforço cognitivo necessário para a tarefa (p. 1).
+* _Cognitive distance_ (distância cognitiva) é um conceito informal que descreve o esforço intelectual necessário para um desenvolvedor levar um sistema de um estágio a outro. O artigo explora se a recomendação de um "elemento focado" ajuda a reduzir essa distância durante o reuso de GUIs (p. 2).
+* _Clever reuse_ (reuso inteligente) é definido como um atributo primário da criatividade no trabalho prático de engenharia de software. O estudo utiliza essa perspectiva para avaliar a qualidade e a criatividade dos resultados de reuso produzidos tanto por humanos quanto por IA (p. 2).
 
 ## 3. Fichamento de Citações
 
-* _"While contemporary approaches retrieve GUIs relevant to a user's query, little support exists for the actual reuse, i.e., for using an existing GUI to create a new one."_  
-* _"Our results show that VLMs significantly outperform the NL method in making reuse recommendations, but surprisingly, the focused GUI elements are not consistently modified during reuse."_  
-* _"We also posit that the specific element would help to offer both explainability [9] and a starting point for making the actual changes [10]."_  
-* _"Our results show that VLMs significantly outperform the NL-based method in recommending GUI reuse directions, yet the two VLMs investigated in our study are comparable to each other."_  
-* _"The focused GUI elements are generally revised more often than the non-focused ones, but the differences are not significant."_  
-* _"Compared to generative AI's diffusion-based reuse, humans are currently better at cleverly sketching new GUIs."_  
-* _"Thus, we use cognitive distance in our work as an intuitive construct to compare the effectiveness of reuse support."_  
+* _"While contemporary approaches retrieve GUIS relevant to a user's query, little support exists for the actual reuse, i.e., for using an existing GUI to create a new one."_
+* _"Our results show that VLMs significantly outperform the NL method in making reuse recommendations, but surprisingly, the focused GUI elements are not consistently modified during reuse."_
+* _"Clever reuse is a primary attribute of creativity in practitioners daily work [7]."_
+* _"The focused GUI elements are generally revised more often than the non-focused ones, but the differences are not significant. How to best tackle cognitive distance in the actual change part of GUI reuse thus remains an open challenge."_
+* _"This may suggest that, currently, compared to generative Al, humans are better at sketching new GUI designs that embrace a high degree of cleverness and creativity."_
+* _"A puzzling result, as shown in Fig. 8, is that the NL- based method performed the worst in making reuse direction recommendations."_
