@@ -1,24 +1,33 @@
-# User Experience Design Module: Focusing on Student-Centred Approach
+# User interactions with chatbot interfaces vs. Menu-based interfaces: An Empirical Study
 
-Ahmaderaghi, Baharak; Stewart, Darryl. "User Experience Design Module: Focusing on Student-Centred Approach," in *2025 IEEE Global Engineering Education Conference (EDUCON)*, 2025. Disponível em: [10.1109/EDUCON62633.2025.11016543](https://doi.org/10.1109/EDUCON62633.2025.11016543)
+Nguyen, Quynh N.; Sidorova, Anna; Torres, Russell. "User interactions with chatbot interfaces vs. Menu-based interfaces: An Empirical Study," *Computers in Human Behavior*, vol. 128, 2022, p. 107093. doi: [10.1016/j.chb.2021.107093](https://doi.org/10.1016/j.chb.2021.107093).
+
+---
 
 ## 1. Fichamento de Conteúdo
 
-Este artigo apresenta um estudo de caso sobre a implementação de uma abordagem de ensino centrada no aluno em um módulo de Design de Experiência do Usuário (UX) para estudantes de graduação. O contexto é a dificuldade de ensinar conceitos de UX, que envolvem psicologia e interação humano-computador, a estudantes com mentalidade mais técnica e estruturada, oriundos de diferentes cursos como Tecnologia da Informação para Negócios (BIT) e Computação e Tecnologia da Informação (CIT). O problema central é que a falta de experiência real dos alunos com os impactos emocionais e de satisfação do usuário pode prejudicar seu desempenho em projetos práticos. O método consistiu em aplicar e comparar técnicas de ensino em duas turmas anuais consecutivas: a primeira com pequenas modificações e a segunda com a adoção completa da abordagem centrada no aluno, que incluiu aprendizagem ativa (discussões em grupo, mapas mentais), personalização (slides interativos, vídeos), feedback contínuo e conexão com o mundo real (palestrantes convidados). Os resultados mostraram uma melhoria significativa no desempenho dos alunos no projeto final após a implementação completa da abordagem, com a maioria dos estudantes da segunda turma alcançando notas superiores às da primeira.
+O artigo apresenta um estudo empírico que compara a satisfação do usuário com interfaces de chatbot e interfaces baseadas em menu. O objetivo principal é entender as diferenças na experiência do usuário e identificar os fatores que influenciam a satisfação, com base na **self-determination theory** (teoria da autodeterminação). A pesquisa, conduzida com 316 participantes, utilizou um design experimental no qual os estudantes realizaram tarefas de busca de viagens no site Hipmunk, que possui interface baseada em menu, e no chatbot Hello Hipmunk. Os resultados revelam que os sistemas de chatbot levam a um nível mais baixo de **perceived autonomy** (autonomia percebida) e a um **cognitive load** (carga cognitiva) mais alto em comparação com as interfaces baseadas em menu. Isso resulta em um menor grau de satisfação do usuário.  
+
+A pesquisa também conclui que a **perceived competence** (competência percebida) e a **perceived autonomy** são preditores importantes da satisfação com o desempenho e com o sistema. O artigo sugere que, embora a tecnologia avançada, como chatbots, prometa melhorar a experiência do cliente, ela pode resultar em consequências negativas se as necessidades básicas de motivação do usuário não forem devidamente abordadas.
+
+---
 
 ## 2. Fichamento Bibliográfico
 
-* _User Experience (UX) Design_ (Design de Experiência do Usuário) é um campo interdisciplinar que foca não apenas na eficiência e ausência de erros ao completar tarefas, mas também na experiência geral do usuário, incluindo o impacto emocional, a satisfação e o quão agradável foi a interação (pp. 640–654).
-* _Student-centred approach_ (Abordagem centrada no aluno) é uma metodologia de ensino que se afasta dos métodos tradicionais focados no professor para priorizar o papel ativo do aluno em sua própria educação, considerando suas necessidades individuais, interesses e estilos de aprendizagem (pp. 710–712).
-* _Active learning_ (Aprendizagem ativa) é um princípio central da abordagem centrada no aluno, que envolve engajá-los em atividades como discussões em grupo, projetos práticos e criação de mapas mentais, exigindo que apliquem, analisem e avaliem informações em vez de apenas recebê-las passivamente (pp. 713–717).
-* _Personalisation_ (Personalização) é uma técnica para atender às diversas necessidades e preferências dos alunos, utilizando diferentes formatos de recursos, como materiais visuais, vídeos, notas online, simulações interativas e livros, para se adaptar aos diferentes estilos de aprendizagem (pp. 721–726).
-* _Continuous feedback_ (Feedback contínuo) é um componente crucial da abordagem, no qual avaliações formativas regulares e feedback construtivo permitem que os alunos acompanhem seu progresso e identifiquem áreas para melhoria. No estudo, isso foi implementado através de feedback semanal sobre o trabalho prático submetido (pp. 739–740).
+* **Chatbot** (agente de conversação): Uma aplicação de inteligência artificial que utiliza o **Natural Language Processing (NLP)** (Processamento de Linguagem Natural) para entender e permitir a conversação entre um humano e uma máquina. Os chatbots executam tarefas básicas, como busca e resposta a perguntas.
+* **Menu-based user interfaces (UI)** (interfaces de usuário baseadas em menu): Interfaces que permitem ao usuário navegar por meio de menus para encontrar e interagir com o conteúdo. Podem ser difíceis para usuários de primeira viagem, que precisam aprender a estrutura de navegação específica do site.
+* **Self-determination theory (SDT)** (teoria da autodeterminação): Uma teoria da motivação humana que se baseia em três necessidades psicológicas fundamentais que, quando satisfeitas, promovem o crescimento e a motivação para a atividade humana. Essas necessidades são **perceived autonomy** (autonomia percebida), **perceived competence** (competência percebida) e **relatedness** (relacionalidade).
+* **Perceived autonomy** (autonomia percebida): A medida em que uma pessoa sente que tem controle sobre como executa uma tarefa dentro de um sistema. O estudo descobriu que o uso de chatbots leva a um nível mais baixo de autonomia percebida.
+* **Cognitive effort** (esforço cognitivo): A quantidade de capacidade atencional dedicada para obter e processar informações ao realizar uma tarefa. O estudo concluiu que os chatbots com interface NLP levam a um nível mais alto de esforço cognitivo.
+* **Perceived competence** (competência percebida): A medida em que uma pessoa se sente confiante em sua capacidade de completar uma tarefa de forma eficaz em um sistema. É uma necessidade psicológica básica que, quando satisfeita, é um antecedente essencial da motivação para se engajar e completar uma tarefa.
+
+---
 
 ## 3. Fichamento de Citações
 
-* _"User Experience (UX) Design, while not a new term, has become significantly importance in recent years. It includes how users interact with software, focusing not only on completing specific tasks efficiently and error-free, but also on the overall experience."_ (pp. 639–640)
-* _"Students often lack real-world experience that making it harder for them to appreciate how deeply these factors influence user behaviours and product success."_ (p. 643)
-* _"Unlike other modules in computer science that follow specific mathematical and algorithmic frameworks, this module emphasises psychology and the interaction between humans and computers."_ (p. 676)
-* _"The results revealed a significant improvement in the students' final project performance after the full implementation of this approach."_ (p. 651)
-* _"'Lab sessions are very helpful and lecturer is always happy to help with any queries and 'Town Hall' is an excellent way of doing this at the start of each lab.'"_ (p. 797)
-* _"This paper highlights the importance of adopting a student-centred approach to enhance academic performance. By focusing on student needs and promoting active engagement and collaboration, this method fosters a more dynamic and impactful learning environment."_ (pp. 811–813)
+* "Chatbots promise to enhance customer experiences by creating more personal customer interactions than those afforded by traditional menu-based web applications."
+* "The findings indicate that chatbot systems lead to a lower level of perceived autonomy and higher cognitive load, compared with menu-based interface systems, resulting in a lower degree of user satisfaction."
+* "Perceived autonomy is defined as the extent to which a person feels he/she is able to control how he/she performs a task within the system (Nikou & Economides, 2017)."
+* "Perceived competence is defined as the extent to which a person feels confident about their ability to complete a task, and it reflects the user's perception of whether they can interact with a system effectively to perform a task and gain value outcomes (Nikou & Economides, 2017)."
+* "This finding suggests that in human-chatbot interaction, individuals perceive less control over the system since they only interact with the system through natural language and have no other control over the system."
+* "Our findings show that chatbots with NLP interface lead to a higher level of cognitive effort than websites."
