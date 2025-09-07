@@ -8,10 +8,10 @@ Este artigo detalha o processo de redesenho de um sistema de gerenciamento de su
 
 ## 2. Fichamento Bibliográfico
 
-* _User-centred design and evaluation_ (Design e avaliação centrados no usuário) é uma filosofia de desenvolvimento que defende a necessidade de avaliar o sistema com seus usuários reais desde o início para explorar implicações para um design melhor e garantir que suas necessidades sejam incorporadas ao projeto. (p. 1)
-* _Support Requests (SRs)_ (Solicitações de Suporte) são as requisições (como bugs, dúvidas ou pedidos de mudança) registradas pelos clientes no sistema após a implantação de um projeto. A dificuldade de gerenciar o ciclo de vida dessas solicitações era uma das principais deficiências do sistema original. (p. 2)
-* _WAMMI (Web Site Analysis and Measurement Inventory)_ (Inventário de Análise e Medição de Sítios Web) é um questionário padronizado da indústria, com alta confiabilidade, utilizado para obter dados quantitativos sobre a usabilidade de um sistema. Ele avalia o sistema em escalas como Atratividade, Controlabilidade, Eficiência, Utilidade e Facilidade de Aprendizagem. (p. 3)
-* _User Tests and Observation_ (Testes com Usuários e Observação) é um método de coleta de dados que fornece uma visão real de como os usuários interagem com o sistema. Envolve observar usuários reais (funcionários e clientes) executando tarefas predefinidas no sistema, com o auxílio de software para monitorar a tela e o comportamento do usuário. (p. 3)
+* _User-centred design and evaluation_ (Design e avaliação centrados no usuário) é uma filosofia de desenvolvimento que defende a necessidade de avaliar o sistema com seus usuários reais desde o início para explorar implicações para um design melhor e garantir que suas necessidades sejam incorporadas ao projeto. 
+* _Support Requests (SRs)_ (Solicitações de Suporte) são as requisições (como bugs, dúvidas ou pedidos de mudança) registradas pelos clientes no sistema após a implantação de um projeto. A dificuldade de gerenciar o ciclo de vida dessas solicitações era uma das principais deficiências do sistema original. 
+* _WAMMI (Web Site Analysis and Measurement Inventory)_ (Inventário de Análise e Medição de Sítios Web) é um questionário padronizado da indústria, com alta confiabilidade, utilizado para obter dados quantitativos sobre a usabilidade de um sistema. Ele avalia o sistema em escalas como Atratividade, Controlabilidade, Eficiência, Utilidade e Facilidade de Aprendizagem.
+* _User Tests and Observation_ (Testes com Usuários e Observação) é um método de coleta de dados que fornece uma visão real de como os usuários interagem com o sistema. Envolve observar usuários reais (funcionários e clientes) executando tarefas predefinidas no sistema, com o auxílio de software para monitorar a tela e o comportamento do usuário. 
 
 ## 3. Fichamento de Citações
 
