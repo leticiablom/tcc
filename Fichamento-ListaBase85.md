@@ -8,7 +8,7 @@ O artigo investiga como Modelos de Visão-Linguagem (VLMs), uma técnica de inte
 
 ## 2. Fichamento Bibliográfico
 
-* _GUI-centered reuse_ (reuso centrado na _GUI_) é uma abordagem onde a interface gráfica é tratada como o elemento principal, da qual podem derivar múltiplas direções de reuso (representadas por frases-chave), em vez de ser apenas o resultado de uma busca por uma consulta específica 
+* _GUI-centered reuse_ (reuso centrado na GUI) é uma abordagem onde a interface gráfica é tratada como o elemento principal, da qual podem derivar múltiplas direções de reuso (representadas por frases-chave), em vez de ser apenas o resultado de uma busca por uma consulta específica 
 * _Vision-Language Models (VLMs)_ (Modelos de Visão-Linguagem) são modelos de IA treinados com vastos conjuntos de dados de imagem-legenda. No estudo, eles são usados para analisar uma imagem de GUI e recomendar tanto a direção de reuso mais adequada (frase-chave) quanto um elemento específico na tela para iniciar a modificação 
 * _Focused GUI element_ (elemento de GUI focado) é um componente específico da interface (como um botão ou um ícone) que é sugerido ao _designer_ como um ponto de partida para realizar as alterações de reuso, com o objetivo de reduzir o esforço cognitivo necessário para a tarefa 
 * _Cognitive distance_ (distância cognitiva) é um conceito informal que descreve o esforço intelectual necessário para um desenvolvedor levar um sistema de um estágio a outro. O artigo explora se a recomendação de um "elemento focado" ajuda a reduzir essa distância durante o reuso de GUIs
