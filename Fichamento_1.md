@@ -18,7 +18,7 @@ Este artigo apresenta uma avaliação empírica da usabilidade e da experiência
 
 - **_Hybrid HCI framework_ (Framework Híbrido de HCI):** abordagem que combina dados de usuários reais (pesquisas) e especialistas (ex.: percurso cognitivo) para uma análise mais completa da usabilidade e UX.  
 - **_Cognitive walkthrough_ (Percurso cognitivo):** método de avaliação da usabilidade com foco na perspectiva do especialista. No estudo, gerou dados contextuais (C1 a C7) que serviram como limiar de especialista para validar a satisfação do usuário.  
-- **_Cognitive mapping_ (Mapeamento cognitivo):** técnica que visualiza o modelo mental de usuários ou grupos sobre processos ou conceitos. Foi aplicada para simplificar questões complexas e compreender percepções dos usuários do Quick Food.  
+- **_Cognitive mapping_ (Mapeamento cognitivo):** técnica que visualiza o modelo mental de usuários ou grupos sobre processos ou conceitos. Foi aplicada para simplificar questões complexas e compreender percepções dos usuários do _Quick Food_.  
 - **_Context mapping_ (Mapeamento de contexto):** processo de organizar perguntas de pesquisas de usuários em categorias contextuais (C1 a C7), associadas a domínios amplos como Controle, Engajamento e Objetivo.  
 
 ---
@@ -27,7 +27,7 @@ Este artigo apresenta uma avaliação empírica da usabilidade e da experiência
 
 * _"The existing research gap in usability and user experience assessment arises from the absence of combining expert and user data studies, often concentrating solely on one*sided viewpoints, typically through a heuristic approach."_  
 * _"To address this limitation, we introduced a data-driven assessment measure derived from a cognitive walkthrough. We then compared the results with user data about the domain's specific context."_  
-* _"Our data-driven hybrid HCI framework categorizes user survey responses into control, engagement, and goal domains, alongside computing context*level data (C1 to C7) via cognitive walkthrough."_  
-* _"Cognitive mapping visualizes a person's or group's mental model of a process or notion."_  
+* _"Our data-driven hybrid HCI framework categorizes user survey responses into control, engagement, and goal domains, alongside computing context level data (C1 to C7) via cognitive walkthrough."_  
+* _"While  the main goal was to assess our hybrid HCI framework’s effectiveness, our study also contributed by consolidating  various usability and user experience criteria in HCI research."_  
 * _"The idea behind using a questionnaire survey is that learning about usability issues in a system is best achieved by asking users. Their main advantage is that they are inexpensive and relatively easy to use."_  
 * _"In terms of a data-driven hybrid HCI framework, this paper outperforms by incorporating evaluations from both user and expert levels while providing valuable insights into usability and user experience."_  
