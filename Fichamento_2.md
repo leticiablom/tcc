@@ -1,23 +1,30 @@
-# User-Centred Design and Evaluation of Support Management System
+# "As Usual, I Needed Assistance of a Seeing Person": Experiences and Challenges of People with Disabilities and Authentication Methods
 
-Iqbal, Rahat; Shah, Nazaraf; James, Anne; Duursma, Jacob. "User-Centred Design and Evaluation of Support Management System," in *Proceedings of the 2009 13th International Conference on Computer Supported Cooperative Work in Design*, 2009. Disponível em: [10.1109/CSCWD.2009.4968051](https://doi.org/10.1109/CSCWD.2009.4968051)
+Erinola, Ahmet; Friedauer, Jennifer; Buckmann, Annalina; Yardım, Aslı; Sasse, M. Angela.  
+"'As Usual, I Needed Assistance of a Seeing Person': Experiences and Challenges of People with Disabilities and Authentication Methods," in *2023 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)*, 2023. Publicado em: [10.1109/EuroSPW59978.2023.00070](https://doi.org/10.1109/EuroSPW59978.2023.00070)
+
+---
 
 ## 1. Fichamento de Conteúdo
 
-Este artigo detalha o processo de redesenho de um sistema de gerenciamento de suporte utilizado por uma empresa de médio porte no Reino Unido. O sistema original apresentava graves problemas de usabilidade que limitavam seu uso tanto por funcionários internos, que recorriam a planilhas e anotações para contornar as dificuldades, quanto por clientes externos, o que representava um risco para a reputação da empresa. Para solucionar esses problemas, os autores adotaram uma filosofia de design e avaliação centrada no usuário. O método envolveu um estudo aprofundado com os usuários reais do sistema, utilizando técnicas como entrevistas, questionários (WAMMI), observação e testes de usabilidade para identificar os problemas e capturar os requisitos. Com base nos resultados, que apontaram falhas graves na gestão de solicitações de suporte, na complexidade de registro e na dificuldade de busca, foram propostas e implementadas melhorias significativas. Uma avaliação comparativa entre o sistema antigo e o novo demonstrou uma melhora considerável no desempenho dos usuários ao realizarem tarefas, validando a eficácia da abordagem centrada no usuário para o desenvolvimento de sistemas colaborativos.
+Este artigo investiga os desafios de acessibilidade enfrentados por pessoas com deficiência ao utilizar métodos de autenticação digital. O problema central é que os métodos comuns baseados em conhecimento (senhas), _tokens_ (OTPs) e biometria (impressão digital, facial) não são totalmente acessíveis, o que leva essa população a abandonar serviços ou a adotar contornos que comprometem sua segurança e privacidade. Para explorar essa questão, os autores realizaram 13 entrevistas semiestruturadas com pessoas com deficiências físicas, visuais, auditivas, cognitivas ou múltiplas, utilizando um _design_ de estudo acessível que incluiu o uso de linguagem simples. A análise qualitativa revelou que nenhum método de autenticação disponível atende plenamente às necessidades dos participantes. Consequentemente, eles dependem fortemente de tecnologias assistivas (como leitores de tela) e, crucialmente, da ajuda de outras pessoas ("acesso assistido"), o que introduz novos riscos e diminui a autonomia. O estudo conclui que a segurança acessível vai além da usabilidade e recomenda que pesquisadores e desenvolvedores considerem o "acesso assistido" e incluam ativamente pessoas com deficiência no processo de _design_ de mecanismos de segurança.
+
+---
 
 ## 2. Fichamento Bibliográfico
 
-* _User-centred design and evaluation_ (Design e avaliação centrados no usuário) é uma filosofia de desenvolvimento que defende a necessidade de avaliar o sistema com seus usuários reais desde o início para explorar implicações para um design melhor e garantir que suas necessidades sejam incorporadas ao projeto. 
-* _Support Requests (SRs)_ (Solicitações de Suporte) são as requisições (como bugs, dúvidas ou pedidos de mudança) registradas pelos clientes no sistema após a implantação de um projeto. A dificuldade de gerenciar o ciclo de vida dessas solicitações era uma das principais deficiências do sistema original. 
-* _WAMMI (Web Site Analysis and Measurement Inventory)_ (Inventário de Análise e Medição de Sítios Web) é um questionário padronizado da indústria, com alta confiabilidade, utilizado para obter dados quantitativos sobre a usabilidade de um sistema. Ele avalia o sistema em escalas como Atratividade, Controlabilidade, Eficiência, Utilidade e Facilidade de Aprendizagem.
-* _User Tests and Observation_ (Testes com Usuários e Observação) é um método de coleta de dados que fornece uma visão real de como os usuários interagem com o sistema. Envolve observar usuários reais (funcionários e clientes) executando tarefas predefinidas no sistema, com o auxílio de software para monitorar a tela e o comportamento do usuário. 
+- **_Inclusive and Accessible Security & Privacy_ (Segurança e Privacidade Inclusiva e Acessível):** abordagem que defende a inclusão ativa de populações sub-representadas (como pessoas com deficiência) no _design_ de mecanismos de segurança. Acessibilidade deve ser tratada como dimensão central junto com segurança e usabilidade. 
+- **_Assisted access_ (Acesso assistido):** uso de tecnologias assistivas (ex.: leitores de tela) ou assistência humana para acessar sistemas digitais. É um elemento central na experiência de autenticação de pessoas com deficiência, mas negligenciado em projetos atuais.  
+- **_Plain Language_ (Linguagem Simples):** método de comunicação que evita jargões e estruturas complexas, garantindo maior acessibilidade. Foi usado no estudo para materiais de recrutamento e entrevistas.  
+- **_Workarounds and coping strategies_ (Soluções alternativas e estratégias de enfrentamento):** práticas adotadas pelos usuários para superar barreiras, como: reutilizar senhas simples, anotar credenciais, depender de ajuda humana, desabilitar funções de segurança (ex.: sensor de atenção no reconhecimento facial), todas essas práticas acarretam riscos adicionais de segurança e privacidade. 
+
+---
 
 ## 3. Fichamento de Citações
 
-* _"An important aspect of redesign for usability is to evaluate the system with its real users in order to explore implications for better design."_  
-* _"Due to this the internal users have established alternative means for completing their work e.g. keeping an additional spreadsheet and sticky notes etc."_  
-* _"The consequences of the external not being able to use the system are severe in terms of business reputation and also due to the fear of losing customers and business."_  
-* _"While conducting the evaluation, it did become clear that one particular advantage of using interviews as part of the evaluation is that missing functionality can be much more easily identified."_  
-* _"It is impossible to manage SR's on the system and hence a separate spreadsheet is utilized for this purpose."_  
-* _"It is argued that collaborative systems should be developed using user-centred design and evaluation philosophy as discussed in this paper."_  
+* _"Our qualitative content analysis shows that none of the commonly available authentication methods is fully accessible to participants, causing them to abandon services or develop workarounds that reduce their own security and privacy."_  
+* _"Our results also reveal the role of assistive technologies and human assistants in the authentication experience of users with disabilities."_
+* _"...'disability is not only physical but also related to a range of barriers that prevent people from operating as fully fledged members of society' [56]."_  
+* _"'I had to reset a password [...]. It did not work at all, as it constantly said, this is not okay, that is not okay. There are a lot of rules. I felt very constrained.'"_  
+* _"'It is also about autonomy. An authentication method is of no use, when you are depending on others.'"_
+* _"We conclude that accessible S&P is about more than usability."_

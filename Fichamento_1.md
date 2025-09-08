@@ -1,24 +1,33 @@
-# Designing new technologies for illiterate populations: A study in mobile phone interface design
+# An Empirical Study to Evaluate the Usability of a Food Delivery Application Using HCI Framework
 
-Lalji, Zereh; Good, Judith. "Designing new technologies for illiterate populations: A study in mobile phone interface design," in *Interacting with Computers*, vol. 20, pp. 574-586, Dec. 2008. doi: [10.1016/j.intcom.2008.09.002](https://doi.org/10.1016/j.intcom.2008.09.002)
+Rahman Oion, Md Shariar; Prokrit, Anika Tahsin; Hoque, Sayed Samiul; Akter, Showlin; Abir, Abdullah Al Ahad; Chaki, Sudipto.  
+"An Empirical Study to Evaluate the Usability of a Food Delivery Application Using HCI Framework," in *2023 26th International Conference on Computer and Information Technology (ICCIT)*, 2023. Publicado em: [10.1109/ICCIT60459.2023.10441572](https://doi.org/10.1109/ICCIT60459.2023.10441572)
+
+---
 
 ## 1. Fichamento de Conteúdo
 
-Este artigo investiga o design de uma interface de celular para populações analfabetas, destacando que as experiências de vida, necessidades e expectativas desses usuários em nações em desenvolvimento são muito diferentes das de um designer. O problema central é que a replicação de conceitos e interfaces ocidentais pode resultar em produtos inúteis que marginalizam ainda mais esses grupos. Para evitar vieses, os autores adotaram uma abordagem de design centrado no usuário e incremental, trabalhando em parceria contínua com trabalhadores de baixa renda em Mumbai, na Índia. O método foi dividido em duas fases: a primeira utilizou protótipos de baixa fidelidade para identificar os recursos desejados, enquanto a segunda explorou o contexto de uso e testou protótipos de alta fidelidade com uma interface adaptativa, áudio-visual e baseada em andaimes ("scaffolding"). Os resultados mostraram que os principais obstáculos não eram cognitivos, mas sim a baixa autoconfiança dos usuários. Eles responderam bem a instruções de voz passo a passo, acesso direto a recursos (como rádio e lanterna) com um único clique e se sentiram confusos com menus hierárquicos e ícones ocidentais. A pesquisa concluiu que uma interface adaptativa deve focar mais em ajustar o nível de instrução do que em limitar os recursos.
+
+Este artigo apresenta uma avaliação empírica da usabilidade e da experiência do usuário (UX) de um aplicativo de entrega de comida em Bangladesh, chamado Quick Food. O estudo parte do problema de que muitas avaliações de usabilidade se concentram em apenas uma perspectiva, seja a do especialista ou a do usuário, mas raramente combinam ambas. Para resolver essa lacuna, os autores propõem um _framework_ híbrido de Interação Humano-Computador (HCI) que integra os dois pontos de vista. O método consistiu na aplicação de um questionário com 12 perguntas a usuários para coletar dados sobre sua experiência , enquanto uma análise de percurso cognitivo foi usada para gerar dados de nível de especialista. As respostas dos usuários foram categorizadas em domínios (controle, engajamento e objetivo) e comparadas com os limiares definidos pelos especialistas. Os resultados permitiram quantificar a satisfação do usuário e identificar discrepâncias entre as percepções dos usuários e as avaliações dos especialistas, gerando _insights_ valiosos para aprimorar o design da UI e UX do aplicativo, como a necessidade de um sistema de rastreamento mais eficaz e um design mais atraente.
+
+---
+
 
 ## 2. Fichamento Bibliográfico
 
-* ***User-centred design (UCD)*** (Design centrado no usuário) é uma abordagem de design que enfatiza o envolvimento contínuo do usuário ao longo de todo o processo de desenvolvimento. O artigo defende que essa metodologia é essencial ao projetar para populações não tradicionais, a fim de evitar suposições equivocadas do designer e garantir que o produto atenda às necessidades reais. 
-* ***Scaffolding*** (Andaime) é uma técnica de design que auxilia os usuários a realizar tarefas que, de outra forma, estariam além de suas capacidades. No estudo, isso foi implementado por meio de instruções de voz passo a passo, ajuda contextual e o uso de múltiplos meios (gráficos e animações) para facilitar a aprendizagem. 
-* ***Learner-centred design (LCD)*** (Design centrado no aprendiz) é uma filosofia de design que trata os usuários como aprendizes com necessidades de crescimento, diversidade e motivação. O protótipo de alta fidelidade do estudo aplicou essa filosofia para não apenas ajudar os usuários a atingir seus objetivos, mas também para ensiná-los a realizar as tarefas. (página 8)
-* ***Adaptive interface*** (Interface adaptativa) é uma interface que se ajusta com base na competência do usuário. O estudo explorou a adaptação através da introdução gradual de funcionalidades, mas concluiu que seria mais eficaz adaptar o nível de suporte instrucional (andaime), em vez de restringir os recursos. 
-* ***Context of use*** (Contexto de uso) refere-se à necessidade de compreender o ambiente holístico do usuário, incluindo suas práticas diárias, condições de vida e preocupações. O artigo destaca que este entendimento é crucial, pois revela fatores sutis, como a relutância em usar telas de toque devido a mãos sujas ou o alto valor atribuído a uma lanterna embutida.
+
+- **_Hybrid HCI framework_ (Framework Híbrido de HCI):** abordagem que combina dados de usuários reais (pesquisas) e especialistas (ex.: percurso cognitivo) para uma análise mais completa da usabilidade e UX.  
+- **_Cognitive walkthrough_ (Percurso cognitivo):** método de avaliação da usabilidade com foco na perspectiva do especialista. No estudo, gerou dados contextuais (C1 a C7) que serviram como limiar de especialista para validar a satisfação do usuário.  
+- **_Cognitive mapping_ (Mapeamento cognitivo):** técnica que visualiza o modelo mental de usuários ou grupos sobre processos ou conceitos. Foi aplicada para simplificar questões complexas e compreender percepções dos usuários do Quick Food.  
+- **_Context mapping_ (Mapeamento de contexto):** processo de organizar perguntas de pesquisas de usuários em categorias contextuais (C1 a C7), associadas a domínios amplos como Controle, Engajamento e Objetivo.  
+
+---
 
 ## 3. Fichamento de Citações
 
-* "Designing for illiterate populations involves particular challenges: for a start, the life experiences, needs and expectations of non-elite and illiterate populations in developing nations are likely to be markedly different from those of a designer."
-* "It is therefore important that the creation of new technologies for such groups develops in continuous partnership and dialogue with primary users, and includes a thorough investigation into their worlds, lives, relations and concerns."
-* "You need to be educated to use these phones... My employer gifted me his old phone. I sold it for Rs. 500 as I found it difficult to use."
-* "We now feel that the adaptive nature of the phone should focus on the instructions given, rather than the features."
-* "We found that the problems people experienced were less about cognitive issues than confidence levels."
-* "Rather than challenge the user with abstract concepts and features, the users’ mobile experience could be improved by drawing inspiration from their abilities, everyday practices, and workarounds."
+* _"The existing research gap in usability and user experience assessment arises from the absence of combining expert and user data studies, often concentrating solely on one*sided viewpoints, typically through a heuristic approach."_  
+* _"To address this limitation, we introduced a data-driven assessment measure derived from a cognitive walkthrough. We then compared the results with user data about the domain's specific context."_  
+* _"Our data-driven hybrid HCI framework categorizes user survey responses into control, engagement, and goal domains, alongside computing context*level data (C1 to C7) via cognitive walkthrough."_  
+* _"Cognitive mapping visualizes a person's or group's mental model of a process or notion."_  
+* _"The idea behind using a questionnaire survey is that learning about usability issues in a system is best achieved by asking users. Their main advantage is that they are inexpensive and relatively easy to use."_  
+* _"In terms of a data-driven hybrid HCI framework, this paper outperforms by incorporating evaluations from both user and expert levels while providing valuable insights into usability and user experience."_  
