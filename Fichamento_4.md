@@ -1,6 +1,6 @@
 # A Framework for Supporting the Choice of Usability Evaluation Methods for Interactive Adaptive Systems 
 
-Dhouib, Amira; Neji, Mahmoud; Trabelsi, Abdelwaheb; Kolski, Christophe. "A Framework for Supporting the Choice of Usability Evaluation Methods for Interactive Adaptive Systems," in *2015 15th International Conference on Intelligent Systems Design and Applications (ISDA)*, 2015.
+Dhouib, Amira; Neji, Mahmoud; Trabelsi, Abdelwaheb; Kolski, Christophe. "A Framework for Supporting the Choice of Usability Evaluation Methods for Interactive Adaptive Systems," in *2015 15th International Conference on Intelligent Systems Design and Applications (ISDA)*, 2015. Publicado em: [10.1109/ISDA.2015.7489240](https://doi.org/10.1109/ISDA.2015.7489240).
 
 ## 1. Fichamento de Conteúdo
 
